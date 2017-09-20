@@ -219,6 +219,4 @@ local.properties
 # Code Recommenders
 .recommenders/
 
-# Yarn
-/yarn.lock
 /.idea
